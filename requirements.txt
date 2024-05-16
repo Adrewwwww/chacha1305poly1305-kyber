@@ -1,0 +1,2 @@
+pycryptodome
+chacha20poly1305
